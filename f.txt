@@ -1,0 +1,22 @@
+const AOS = {
+    user: function() {
+        const username = require("os").userInfo().username
+        return username
+    },
+    info: function(type) {
+        const a = require("os").userInfo()
+        if (type === "gid") {
+            return a.gid
+        } else if (type === "shell") {
+            return a.shell
+        } else if (type === "homedir") {
+            return a.homedir
+        } else if (type === "uid") {
+            return a.uid
+        } else {
+            return null
+        }
+    }
+}
+
+module.exports = AOS

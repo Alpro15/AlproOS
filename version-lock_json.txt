@@ -1,0 +1,63 @@
+{
+    "versions": {
+        "Alpro1": "alp64:2f3b30ec197c474104bd78835125852a8483b21cfe9c735fdc2341a182d2b53e",
+        "Alpro2": "alp64:72fde4fe1cb5ce3dea01bbe32ac8425ff34278d14bbf0c9b4bdf0a2e9be5f0cf",
+        "Alpro3": "alp64:a70d75dc5898985b4eea9fee841ec9dbb2595dcb12a1aada52ec7da99908fba2",
+        "Alpro4": "alp64:b123057f9ab0ce5d5bc4d7af2bba0e3a3f07ee428a14d5302d532f0394bb0349",
+        "AlproPro": {
+            "alp64SHD": "alp64:b293e3fec80f55c84c535ce701f051990aff3e54777917a81e1c4029bde91951",
+            "alp128SHD": "alp128:a94e731793e48eb74f5c1527ffba329ead04de45d3e4c221cd50f27afde37bb01e4e1a42b49d5272c12b0f441d32a2913ffbf522b88bbf1598c12525a52c49b7",
+            "alpxSHD": "alpx:378898274ca30c8c15a11be1ceadce82"
+        }
+    },
+    "AlproContents": {
+        "ctx16": [
+            "a725111de95a2ae0",
+            "f0cf323a38b188bc",
+            "7c95eb4d0b82b143",
+            "44e31d15bcf59907"
+        ],
+        "ctx32": [
+            "c48c42ec73b8d59ec18c411dc7feb910",
+            "a3332459d22a5309cab0bbb4727aa072",
+            "cf385747a477951ffa8fa948aa2a8178",
+            "28eaa289edf130c50241ffe494a424ee"
+        ],
+        "ctx64SHD": "ctx64:2c5f7c37477b2e19773722a42cf1bd5d235bd2cf3e4213122a29d240c5087394",
+        "ctx128SHD": "ctx128:97ee70deb3749c95393b70fb1b44b2b2efb5adeb3ccff3cec8a3d49939fec8b4ebb1013517aef30f840578e0498f045ad1f2ecaa109998b27cc8eab81dc5ea55"
+    },
+    "types": {
+        "Alpro1": [
+            "hash": "32b",
+            "type": "none"
+        ],
+        "Alpro2": [
+            "hash": "32b",
+            "type": "none"
+        ],
+        "Alpro3": [
+            "hash": "32b",
+            "type": "none"
+        ],
+        "Alpro4": [
+            "hash": "32b",
+            "type": "none"
+        ],
+        "AlproPro": [
+            "encoding": [
+                "ProX": [
+                    "15sb",
+                    "x15."
+                ],
+                "Pro64": [
+                    "64b",
+                    "x64"
+                ],
+                "Pro128": [
+                    "128b",
+                    "x128"
+                ],
+            ],
+        ],
+    }
+}

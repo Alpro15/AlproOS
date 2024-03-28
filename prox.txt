@@ -1,0 +1,10 @@
+{
+    "hash32b": [
+        "H32B:4c3b73daca7f14c1ebd0d43dd250e3d7",
+        "H32B:e04ad1458d0c0fbb457ca8ffdb511e13",
+        "H32B:801f2a5c05ce09b87ccc074a743ec5a4",
+        "H32B:d7dda519c09c2917b0ac70ae95fb5eb2"
+    ],
+    "encodingType": "sb/15",
+    "type": "x32"
+}

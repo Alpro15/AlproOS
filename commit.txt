@@ -1,0 +1,7 @@
+[Commitments]
+AlproOS = "*",
+DataBaseOS = "*",
+
+[Versions]
+AlproOS = "^1.0.0",
+DataBaseOS = "^4.2.16"

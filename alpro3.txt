@@ -1,0 +1,6 @@
+{
+    "hash32": [
+        "H32:1f9adea3b1f2ca27c8dfdfbf21c02a1e",
+        "H32:d35aad7f4f33d197d7dcc9d98179bf9c"
+    ]
+}

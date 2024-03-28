@@ -1,0 +1,9 @@
+{
+    "hash64b": [
+        "H64B:25fa1ea2188bf2347bced2e553f11b5fc88e9755393f9171f937f70340a89e42",
+        "H64B:7945b0488f9c59fc97fc4b3991f0faff0cf078fbce838de80ffaab5cddae0093",
+        "H64B:c2eb50a020248eb13f7ac54908bf44b5cf5eecc7e95f4fbdf98f991d38d51082",
+        "H64B:00fc0f111bff3a71d30fae32bb8fa28e9911557e21d949dcf5cb2a3f54585bd4"
+    ],
+    "type": "x64"
+}
